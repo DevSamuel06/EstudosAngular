@@ -17,7 +17,7 @@ O objetivo deste projeto é fornecer um exemplo prático de como criar uma aplic
 ## Como Usar:
 1. Clone o repositório em sua máquina local usando o comando:
    ```
-   git clone https://github.com/seu_usuario/nome-do-projeto.git
+   git clone https://github.com/DevSamuel06/EstudosAngular.git
    ```
 2. Navegue até o diretório do projeto:
    ```
